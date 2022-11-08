@@ -1,0 +1,2 @@
+Union Types
+declaring more than one data types in a variable is union types

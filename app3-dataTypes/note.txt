@@ -1,0 +1,5 @@
+Types in TypeScript:
+a: number = 10
+    -> a is a type of number with initial value 10
+    *Nnote: If we have declared as a string and assign number then it will give error,
+    Similar for other also

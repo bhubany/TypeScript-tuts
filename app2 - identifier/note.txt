@@ -1,0 +1,13 @@
+What is duplicate identiffer issue
+ -> Because we have declared two with same name  i.e var app and class app can be seen in app.js
+
+How to resolve it
+    -> export {}; : place it at the top of app.ts
+What is watch
+    -> When we make some changes in .ts file then we have to convert to js manually, which takes lots
+    of time. To solve we run command "tsc app.ts --watch" which will detect and convert the changes to js.
+Run Filewithout browser
+    -> Using Node: "node app.js", we can see details in command terminal
+let converstion
+    -> Either we can use Var or let on app.ts, but on some browser let is not supported obtained in app.js in this scenario we have to 
+    convert var to let manually in app.js

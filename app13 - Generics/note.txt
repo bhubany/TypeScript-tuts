@@ -1,0 +1,8 @@
+What is Generics in TypeScript
+    -> Generics capture the datatypes of function provided by users
+    and give output acccording to the provided data types.
+    eg: If user provides string then it provides string as output and if it provide number then output is number
+Why we need it
+Make a program with Generics
+Make a Program Without Generics
+Check the difference

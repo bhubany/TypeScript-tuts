@@ -1,0 +1,8 @@
+Array in TypeScripts
+
+    Array without Data Types    
+        -> When we keep all the items of array string and try to push number then it will give errors
+        -> When we keep both number and string value in array then can push both either number or string
+    Push and Update array operations in ts
+    Mixed array
+    Define array type

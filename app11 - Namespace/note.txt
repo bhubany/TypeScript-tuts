@@ -1,0 +1,6 @@
+Namespace in TypeScript
+    What is Namespace: It is a inter-related code wrapper
+        e.g: user: signIn, signUp
+    but mostly instead of namespace we use modules, although it's a feature
+    How to use it
+    Example for Namespace

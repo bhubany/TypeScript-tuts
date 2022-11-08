@@ -1,0 +1,9 @@
+Enum in TypeScript
+    What is Enum: 
+        => Enum is a collection of a values, 
+        when we are using enum with variable or values, then values of a variable must be from enum
+        eg: Enum as a days in week
+        then variable must have value fromenum as one of the days of weeks 
+    Make a Program with enum
+    Use enum with variable
+    Use enum With function

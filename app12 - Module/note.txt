@@ -1,0 +1,7 @@
+Module in TypeScript
+    What is Module
+    make 2 file and make Module
+    use them in single file
+
+
+    Command: "tsc *.ts -w " to watch all the ts files present inside directory

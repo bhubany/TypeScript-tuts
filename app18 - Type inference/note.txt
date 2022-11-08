@@ -1,0 +1,29 @@
+Configuration file in TypeScript
+    => Some time we have a very large and complex project then we have to tell that
+        on which file should we pu input file and where output should generated 
+        then we don't want to convert some TypeScript file to js file, we want to restrict them,
+        Some time we just want to change the EcmaScript COnverter like Es-5, Es-6, ...
+        Enable SOme Disabled Features
+    How to make it
+        got to command  Type: `tsc --init`
+            -> To init config file, will create new tsconfig.json file with multiple settings inside it
+
+    What we can config
+    Try out with some Configuration
+
+***    to run type commadnd: `tsc` on root directory ***
+
+    Different Configurations: 
+
+        target: what Ecma script conversion should we use, by default it is latest present
+        module: 
+
+        // can add custom configuration at the end of provided configuration
+        {
+            {
+                .....
+            },
+            my Configuration
+        }
+
+        "include":["src"] => will convert into js file only for files present inside src

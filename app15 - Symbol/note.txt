@@ -1,0 +1,7 @@
+Symbol on TypeScript
+    What is Symbol:
+        -> Symbol is a primitive data type in TypeScript such as array, object, number ,string
+        -> Symbol is also provided unique id
+    Make a Program with Symbol
+    Use Symbol as key of object
+    Use Symbol as function of class

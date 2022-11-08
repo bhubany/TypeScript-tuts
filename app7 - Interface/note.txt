@@ -1,0 +1,22 @@
+Interface in TypeScript
+Why use Interface
+How to use Interface
+Interface example with object
+
+** Interface is a collection or a template of data types for objects **
+
+Syntax: 
+    Interface interface_name {
+        property_type: data_type,
+        property_type: data_type,
+    }
+
+
+    // while declaring datatypes for objects
+
+   var data: string = "hello"
+   var data = {
+    name: "bhuban",
+    age: "25",
+   }
+ 

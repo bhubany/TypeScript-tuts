@@ -1,0 +1,6 @@
+Function in TypeScript
+    Define a normal Function
+    Define function type
+    Add params in function
+    Define params type
+    Optional params with type

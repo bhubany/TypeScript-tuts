@@ -1,0 +1,6 @@
+Typed Object
+    default typed Object
+    update property
+    add new property
+    define a custom type for Object
+    use any with object
