@@ -1,0 +1,7 @@
+Unknown type in TypeScript
+    What is an unknown type ?
+        -> Sometime we are not sure what type of data to be stored on any variables, 
+            in such scenario we use unknown types of data,
+            and  if value is received string/number/boolean they can be assigned
+    How this is different from any ?
+    How to use unknown ?

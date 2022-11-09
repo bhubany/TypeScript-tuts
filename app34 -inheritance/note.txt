@@ -1,0 +1,9 @@
+Inheritance in TypeScript 
+    What is Inheritance 
+        -> Method of using properties from one class to another or inheriting
+    Make parent class
+    Make child class
+    Use Inheritance
+
+    @: Can we make two parent class for single child class ?
+        -> Yes we can make it

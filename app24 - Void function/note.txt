@@ -1,0 +1,7 @@
+Void
+    What does Void mean ?
+        -> means nothing, 
+            a function will return nothing
+    How to define Void
+    Use of Void
+    By default Void

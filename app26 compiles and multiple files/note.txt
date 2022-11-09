@@ -1,0 +1,15 @@
+Compile and use Multiple Files
+    How to use multiple Files
+     -> Html FIle: We can use multiple .js file using script tag as shown in index.html file
+    How to compile multiple Files
+        -> When we make changes in all the .ts files of included .js files then we need to compile them
+            1) Not a good way: Compile one by one, may be time complexing when there is large number of files
+            2) Using tsconfig :
+                command (to initialize config file): `tsc init`
+                after that for compiling: `tsc --watch` :will automatically compile
+
+                ** now whenever we create new .ts file it will automatically generate .js file for that
+    Generate ts config Files
+        `tsc init`
+    Use watch mode file project
+        `tsc --watch`

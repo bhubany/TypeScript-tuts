@@ -1,0 +1,8 @@
+Constructor and Shorthand Initialization
+    -> Shorthand initialize set some Property with the help of constructors
+         and not need to define these properties
+   
+    understand Constructor
+        -> Simply function in a class which are called automatically whenever object is created of that class
+    Apply shorthand Initialization
+    Get Property value

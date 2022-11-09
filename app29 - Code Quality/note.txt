@@ -1,0 +1,4 @@
+Code Quality Improvement option
+    (config.json)
+        -> noUnusedParameters: will shows warning of unused variables
+        -> unused parameters

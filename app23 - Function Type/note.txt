@@ -1,0 +1,11 @@
+Function Type: 
+    What is function type: 
+        -> Simply, what types of value is returned by function
+
+    Why we need function type
+        -> TO assign a specific type of values to a specific variables
+            similarly for function while returning values,
+    How to define function type
+
+    Q: Can we defined `undefined` types of variable
+        -> No we cannot defined undefined types of data types it will give errors

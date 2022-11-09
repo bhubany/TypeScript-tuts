@@ -1,0 +1,5 @@
+Read only vs Private
+private: cannot access properties outside the class
+    Diff. b/w Read only and Private
+        readOnly: We can read the properties outside the class but cannot modify it, we can only read it
+    Example of read only

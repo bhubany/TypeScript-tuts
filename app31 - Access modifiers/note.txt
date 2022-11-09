@@ -1,0 +1,12 @@
+Public and Private access modifiers
+
+    What are access modifiers?
+        -> It is a features or concept of object oriented programming
+    Why need access modifiers?
+        -> It defines the accessibility of functions and properties inside the class
+    Public access modifier
+        -> Can be access outside the class 
+    Private access modifier
+        -> Only be accessed inside the class
+Q: How many types of access modifiers are there?
+    -> There are three types of access modifiers: Public, Private, and Protected.

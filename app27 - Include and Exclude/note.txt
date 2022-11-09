@@ -1,0 +1,33 @@
+Include and Exclude file
+
+    How to exclude file ?
+     -> In some scenario from list of files we might have to prevent some file for compiling
+     -> init configuration `tsc --init`
+     -> Got to config file: write below setting file to exclude particular file
+        {
+            {
+                    .....
+            },
+            "exclude" : [
+                "filename.ts", "file2.ts", "folderName", "folder/file1.ts"
+            ]
+        }
+        // if folder is kept in exclude then it will exclude whole file present inside it
+        `*/app.ts` will exclude files `app.ts` presented in any folder from PWD
+    How to exclude the folder?
+  
+    How to include folder ?
+        -> On config file for exclude
+        {
+            {
+                    .....
+            },
+            "include" : [
+                "filename.ts", "file2.ts", "folderName", "folder/file1.ts"
+            ]
+        }
+
+        // will only compile included files : opposite of exclude
+
+        
+

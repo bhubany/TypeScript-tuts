@@ -1,0 +1,5 @@
+rootDir and outDir (config)
+    rootDir: Folder from where compiler will take files to compile
+    outDir: where we want to store our output files, or compiled files
+    Output in a specific folder
+    Target a specific folder

@@ -1,0 +1,5 @@
+Type Alias in typescript
+
+    Define Type like a variable and reuse it
+    1. Type Alias with variable
+    2. Type Alias with function params
